@@ -1,0 +1,14 @@
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\bin\Debug\net7.0\GameOfLife.exe
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\bin\Debug\net7.0\GameOfLife.deps.json
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\bin\Debug\net7.0\GameOfLife.runtimeconfig.json
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\bin\Debug\net7.0\GameOfLife.dll
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\bin\Debug\net7.0\GameOfLife.pdb
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.AssemblyInfo.cs
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.dll
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\obj\Debug\net7.0\refint\GameOfLife.dll
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.pdb
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\obj\Debug\net7.0\GameOfLife.genruntimeconfig.cache
+C:\Users\julius.grzyl\source\repos\Lernprojekte\GameOfLife\GameOfLife\obj\Debug\net7.0\ref\GameOfLife.dll
